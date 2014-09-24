@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>58aa0165-103e-45a8-a06c-682e23940fc1</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Draft fequency list.xls</DisplayName>
+    <PathInsideRepo>Communications</PathInsideRepo>
+    <RepoRootFolder>C:\Users\RWhelan\Documents\Snirt\Rob W Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>eac6f62f-d3ee-46df-b2a9-afebee0722a0</guid>
+  </Tags>
+</FolderEntryTags>
